@@ -14,5 +14,6 @@ and open the template in the editor.
         <h1>Address : "Sampath", Gorakaduwa watta, Dunwatta, Baddegama.</h1>
         <h1>School  : G/Christ Church Girls' College.</h1>
         
+        <h2>I am a trainee web developer at Synotec Holdings (Pvt.) Ltd.</h2>
     </body>
 </html>
